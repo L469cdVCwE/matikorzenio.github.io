@@ -1,0 +1,35 @@
+#navbar {
+	padding: 1em;
+}
+.lefty {
+	float: left;
+}
+.floatclear {
+	clear: both;
+}
+.title {
+	letter-spacing: 2px;
+	padding: 1px;
+}
+.righty {
+	float: right;
+}
+body {
+	background-color: #546e7a;
+}
+#main-header {
+	font-weight: bolder;
+	letter-spacing: 1px;
+	text-align: center;
+	font-size: 5em;
+}
+.hello {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 2em;
+}
+#footer {
+	text-align: center;
+	line-height: 2em;
+}
