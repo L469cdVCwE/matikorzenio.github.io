@@ -33,3 +33,11 @@ body {
 	text-align: center;
 	line-height: 2em;
 }
+.header {
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+}
+.section-content {
+	line-height: 2em;
+}
